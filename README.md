@@ -29,7 +29,7 @@ JS:
 - ES6 methods (.forEach)
 
 ## Features
-Payment methods window 
-Slide menu
-Gallery
-Footer with links and email subscription option
+- Payment methods window 
+- Slide menu
+- Gallery
+- Footer with links and email subscription option
